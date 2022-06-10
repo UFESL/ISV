@@ -63,5 +63,9 @@ $ isv -d arbiter.v -r 0.5 -i 10
 * Yangdi Lyu
 * [Prabhat Mishra](https://www.cise.ufl.edu/~prabhat/)
 
+## Implementation
+1. Parser - [iverilog](https://github.com/steveicarus/iverilog)
+2. Constraint Solver - [yices](https://github.com/SRI-CSL/yices2)
+
 ## License
 The IVS code uses [Apache License 2.0](ivs/LICENSE).
