@@ -1,4 +1,4 @@
-# ISV (Integrated Security Validation in RTL Models)
+# ISV (Integrated Security Validation of RTL Models)
 
 ISV is an executable of security valiadtion framework for RTL Models using security assertions. ISV execute a vulnerability detection and genetare security assertions for a given RTL. Then the security assertions are converted to branch conditions and activated through concolic testing. ISV is developed at [Embedded Systems Lab, Department of Computer Science, University of Florida](https://www.cise.ufl.edu/research/cad), as a deliverable for a [SRC](https://www.src.org/) project. For more details, please refer to [ACMTODAES Paper](https://dl.acm.org/doi/abs/10.1145/3441297).
 
@@ -12,7 +12,7 @@ ISV is an executable of security valiadtion framework for RTL Models using secur
 ## Citing ISV
 ```
 @article{witharana2021directed,
-  title={Directed test generation for activation of security assertions in rtl models},
+  title={Directed test generation for activation of security assertions in RTL models},
   author={Witharana, Hasini and Lyu, Yangdi and Mishra, Prabhat},
   journal={ACM Transactions on Design Automation of Electronic Systems (TODAES)},
   volume={26},
